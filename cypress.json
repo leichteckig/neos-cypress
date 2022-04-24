@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://demo.jumpbox.ch/neos/login",
+  "env": {
+    "user": "username",
+    "pass": "password"
+  }
+}
